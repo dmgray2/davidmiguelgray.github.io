@@ -1,2 +1,3 @@
-# dmgray2.github.io
-Profile
+Associate Professor of Philosophy and affiliate at The Institute for Intelligent Systems, The University of Memphis. I work at the intersection of language, cognition, and artificial intelligence. My research spans Philosophy of Language, Philosophy of Cognitive Science, and Philosophy of AI. My current research focuses on LLMs and whether syntactic and semantic structure are encoded in the embedding space and play a causal role in generating model outputs. I'm particularly interested in empirical methods (e.g., structural probes, causal interventions, artificial language training) for assessing the interpretability and linguistic competence of LLMs.
+
+Always learning — especially when it comes to computational tools and implementation details. I am currently building up practical workflows (Python, PyTorch, Jupyter, HF) to support that research.
